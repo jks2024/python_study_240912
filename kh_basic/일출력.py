@@ -44,6 +44,7 @@ print("나이 : %d"%age)
 print("주소 : %s"%addr)
 print("성적 : %.2f"%57.88888888)
 
+
 # 파이썬 old 스타일
 print("======== 파이썬 OLD 스타일 =========")
 print("이름 : {} 성별 : {}".format(name, gender))
